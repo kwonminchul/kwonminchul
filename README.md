@@ -47,9 +47,6 @@
 <br>
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwonminchul&layout=compact">
-  
-<br>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=kwonminchul&show_icons=true">
+<img src="https://github-readme-stats-gorlikitsme.vercel.app/api/top-langs/?username=kwonminchul&count_private=true&langs_count=7&hide=html&layout=compact">
+<img src="https://github-readme-stats-gorlikitsme.vercel.app/api?username=kwonminchul&count_private=true">
 </div>
